@@ -36,7 +36,7 @@ Algoritma nya:<p>
 
 "uniform": digunakan untuk menampilkan bilangan float random dengan batas awal bilangan x, dan batas akhir bilangan y.
 2.Algoritma,Program beserta hasil output dari lab2.py:<p>
-![GAMBAR](Ss/Ss2.PNG)
+![GAMBAR](Ss/Ss3.PNG)
 print("Tugas Pertemuan 7 - Praktikum 3 - Lab2.py")
 
     xangka=0
@@ -63,7 +63,7 @@ print("Tugas Pertemuan 7 - Praktikum 3 - Lab2.py")
 
 "print" : berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
 Program Di Visual Studio Code
-![GAMBAR](Ss/Ss3.PNG)
+![GAMBAR](Ss/Ss1.PNG)
 Berikut untuk Algoritma nya:<p>
 
 program dalam bentuk script nya:
